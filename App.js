@@ -11,7 +11,7 @@ const audioBookPlaylist = [
     source: "Librivox",
     uri: "https://ia800204.us.archive.org/11/items/hamlet_0911_librivox/hamlet_act1_shakespeare.mp3",
     imageSource:
-      "https://f4.bcbits.com/img/a0083340034_10.jpg",
+      "http://www.archive.org/download/LibrivoxCdCoverArt8/hamlet_1104.jpg",
   },
   {
     title: "Hamlet - Act II",
@@ -19,7 +19,7 @@ const audioBookPlaylist = [
     source: "Librivox",
     uri: "https://ia600204.us.archive.org/11/items/hamlet_0911_librivox/hamlet_act2_shakespeare.mp3",
     imageSource:
-      "https://f4.bcbits.com/img/a0083340034_10.jpg",
+      "http://www.archive.org/download/LibrivoxCdCoverArt8/hamlet_1104.jpg",
   },
   {
     title: "Hamlet - Act III",
@@ -27,7 +27,7 @@ const audioBookPlaylist = [
     source: "Librivox",
     uri: "http://www.archive.org/download/hamlet_0911_librivox/hamlet_act3_shakespeare.mp3",
     imageSource:
-      "https://f4.bcbits.com/img/a0083340034_10.jpg",
+      "http://www.archive.org/download/LibrivoxCdCoverArt8/hamlet_1104.jpg",
   },
   {
     title: "Hamlet - Act IV",
@@ -35,7 +35,7 @@ const audioBookPlaylist = [
     source: "Librivox",
     uri: "https://ia800204.us.archive.org/11/items/hamlet_0911_librivox/hamlet_act4_shakespeare.mp3",
     imageSource:
-      "https://f4.bcbits.com/img/a0083340034_10.jpg",
+      "http://www.archive.org/download/LibrivoxCdCoverArt8/hamlet_1104.jpg",
   },
   {
     title: "Hamlet - Act V",
