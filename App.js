@@ -136,7 +136,7 @@ handlePlayPause = async () => {
     }
   }
 
-  renderFileInfo() {
+renderFileInfo() {
     const { playbackInstance, currentIndex } = this.state
     return playbackInstance ? (
       <View style={styles.trackInfo}>
@@ -152,7 +152,6 @@ handlePlayPause = async () => {
       </View>
     ) : null
   }
- 
 
   render() {
     return (
